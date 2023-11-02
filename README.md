@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@utkarsh37120027" target="blank"><img src="https://img.shields.io/twitter/follow/@utkarsh37120027?logo=twitter&style=for-the-badge" alt="@utkarsh37120027" /></a> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [github.com/Utkarshdesai](github.com/Utkarshdesai)
 
