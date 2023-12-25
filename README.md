@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh desai</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshdesai&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshdesai" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/@utkarsh37120027" target="blank"><img src="https://img.shields.io/twitter/follow/@utkarsh37120027?logo=twitter&style=for-the-badge" alt="@utkarsh37120027" /></a> </p>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently working on  **Full stack project**
 
 - 👨‍💻 All of my projects are available at [github.com/Utkarshdesai](github.com/Utkarshdesai)
 
-- 💬 Ask me about **Frontend development**
+- 💬 Ask me about **Full stack development**
 
 - 📫 How to reach me **desaiutkarsh542@gmail.com**
 
